@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/digitalDukan/static/css/main.835b88f3.css",
+    "main.js": "/digitalDukan/static/js/main.615527a8.js",
+    "static/js/787.dcc73137.chunk.js": "/digitalDukan/static/js/787.dcc73137.chunk.js",
+    "static/media/banner-img.png": "/digitalDukan/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/digitalDukan/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "index.html": "/digitalDukan/index.html",
+    "main.835b88f3.css.map": "/digitalDukan/static/css/main.835b88f3.css.map",
+    "main.615527a8.js.map": "/digitalDukan/static/js/main.615527a8.js.map",
+    "787.dcc73137.chunk.js.map": "/digitalDukan/static/js/787.dcc73137.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835b88f3.css",
+    "static/js/main.615527a8.js"
+  ]
+}
